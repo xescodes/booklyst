@@ -5,15 +5,15 @@
     <img src="logo/large_booklyst-2.png" alt="Logo" width="150" height="80">
   </a>
 
-  <h3 align="center">
+  <h2 align="center">
   <p align="center">
     App web para almacenar títulos y resúmenes
-  </h3>
-  <br />
-   <h2 align="center">
+  </h2>
+
+   <h3 align="center">
   <p align="center">
     Proyecto final bootcamp
-  </h2>
+  </h3>
     <br />
   
   </p>
