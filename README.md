@@ -23,7 +23,6 @@
 
 * [Sobre el proyecto](#sobre-el-proyecto)
   * [Hecho con](#hecho-con)
-* [Funcionamiento](#funcionamiento)
   * [Prerrequisitos](#prerrequisitos)
   * [Instalación](#instalación)
 * [Uso](#uso)
@@ -37,17 +36,11 @@
 <!-- Sobre el proyecto -->
 ## Sobre el proyecto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 En alguna ocasión este proyecto pretendió ser una aplicación que ejerciera de puente entre la información disponible en una [biblioteca real de historia del arte](https://www.museunacional.cat/ca/biblioteca-i-arxiu) y los registros de piezas museísticas del museo que la aocoge.
 
 Motivos:
 * Los recursos informáticos podían responder más satisfactçoriamente a las necesidades de los usuarios
 * Los fondos documentales de la biblioteca y del museo podían aproximarse para hacer búsquedas combinadas (era una tarea alejadísima de las posibilidades reales, pero una primera aproximación merecía la pena)
-
-
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Hecho con
 Básicamente con Javascript:
@@ -55,40 +48,27 @@ Básicamente con Javascript:
 * [NodeJs](https://nodejs.org/)
 * [npm](https://www.npmjs.com/)
 
-
-
-
-<!-- Funcionamiento -->
-## Funcionamiento
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Se recomiendan las herramientas para desarrolladores de los navegadores Firefox y Chrome cuando se ejecuten las acciones CRUD.
+
 * npm
 ```sh
 npm install npm@latest -g
 ```
 
-### Installation
+### Instalación
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Obtener [NodeJs](https://nodejs.org/en/download/)
+2. Instalar npm (sistema de gestión de paquetes)
+3. Clonar el repositorio
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
 ```
-3. Install NPM packages
+4. Arrastrar carpeta repositorio a escritorio de VSC
 ```sh
 npm install
 ```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
