@@ -6,12 +6,10 @@
   </a>
 
   <h2 align="center">
-  <p align="center">
-    App web para almacenar títulos y resúmenes
+      App web para almacenar títulos y resúmenes
   </h2>
 
    <h3 align="center">
-  <p align="center">
     Proyecto final bootcamp
   </h3>
     <br />
