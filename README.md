@@ -8,6 +8,7 @@
   <h2 align="center">
       App web para gestionar títulos y resúmenes
   </h2>
+  <br />
 
    <h3 align="center">
     Proyecto final bootcamp
@@ -35,12 +36,12 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Sobre el proyecto -->
+## Sobre el proyecto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+En alguna ocasión este proyecto pretendió ser una aplicación que ejerciera de puente entre la información disponible en una [biblioteca real de historia del arte](https://www.museunacional.cat/ca/biblioteca-i-arxiu) y los registros de piezas museísticas del museo que la aocoge.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
