@@ -8,9 +8,7 @@
   <h2 align="center">
       App web para gestionar títulos y resúmenes
   </h2>
-  <br />
-
-   <h3 align="center">
+  <h3 align="center">
     Proyecto final bootcamp
   </h3>
     <br />
