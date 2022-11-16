@@ -6,7 +6,7 @@
   </a>
 
   <h2 align="center">
-      App web para almacenar títulos y resúmenes
+      App web para gestionar títulos y resúmenes
   </h2>
 
    <h3 align="center">
