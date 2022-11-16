@@ -43,7 +43,7 @@ Motivos:
 * Los fondos documentales de la biblioteca y del museo podían aproximarse para hacer búsquedas combinadas (era una tarea alejadísima de las posibilidades reales, pero una primera aproximación merecía la pena)
 
 ### Hecho con
-Básicamente con Javascript:
+Javascript:
 * [Javascript](https://www.javascript.com/)
 * [NodeJs](https://nodejs.org/)
 * [npm](https://www.npmjs.com/)
