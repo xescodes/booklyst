@@ -48,7 +48,7 @@ Básicamente con Javascript:
 * [NodeJs](https://nodejs.org/)
 * [npm](https://www.npmjs.com/)
 
-### Prerequisites
+### Prerrequisites
 
 Se recomiendan las herramientas para desarrolladores de los navegadores Firefox y Chrome cuando se ejecuten las acciones CRUD.
 
