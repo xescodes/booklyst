@@ -79,7 +79,7 @@ Distributed under the [MIT License](https://opensource.org/licenses/MIT).
 
 Francesc - [@FrancescAdria](https://twitter.com/FrancescAdria)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/xescodes/booklyst/](https://github.com/xescodes/booklyst/blob/main/README.md])
 
 
 
