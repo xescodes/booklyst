@@ -35,7 +35,7 @@
 <!-- Sobre el proyecto -->
 ## Sobre el proyecto
 
-En alguna ocasión este proyecto pretendió ser una aplicación que ejerciera de puente entre la información disponible en una [biblioteca real de historia del arte](https://www.museunacional.cat/ca/biblioteca-i-arxiu) y los registros de piezas museísticas del museo que la aocoge.
+En alguna ocasión este proyecto pretendió ser una aplicación que ejerciera de puente entre la información disponible en una [biblioteca real de historia del arte](https://www.museunacional.cat/ca/biblioteca-i-arxiu) y los registros de piezas museísticas del museo que la acoge.
 
 Motivos:
 * Los recursos informáticos podían responder más satisfactçoriamente a las necesidades de los usuarios
