@@ -38,7 +38,7 @@
 En alguna ocasión este proyecto pretendió ser una aplicación que ejerciera de puente entre la información disponible en una [biblioteca real de historia del arte](https://www.museunacional.cat/ca/biblioteca-i-arxiu) y los registros de piezas museísticas del museo que la acoge.
 
 Motivos:
-* Los recursos informáticos podían responder más satisfactçoriamente a las necesidades de los usuarios
+* Los recursos informáticos podían responder más satisfactóriamente a las necesidades de los usuarios
 * Los fondos documentales de la biblioteca y del museo podían aproximarse para hacer búsquedas combinadas (era una tarea alejadísima de las posibilidades reales, pero una primera aproximación merecía la pena)
 
 ### Hecho con
